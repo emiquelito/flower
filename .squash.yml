@@ -1,0 +1,4 @@
+deployments:
+  default:
+    port_forwarding:
+      5555:80
